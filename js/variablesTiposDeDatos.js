@@ -5,7 +5,7 @@ var gatoGrande;
 
 //2 Inicializacion
 
-gatoGrande = "esto es un gato";
+gatoGrande = "Hola mundo soy un gatote";
 
 //3 Utilizacion
 
