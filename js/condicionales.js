@@ -1,5 +1,5 @@
 var uno = 30;
-var dos = 20;
+var dos;
 
 /*
 if
@@ -25,3 +25,13 @@ if(uno == dos){
 }else{
     document.write("no se cumplio nada");
 };
+
+switch(uno){
+    case 0: document.write("no se cumplio nada");break;
+    case 1: dos="uno";break;
+    case 2: dos="dos";break;
+    case 3: dos="tres";break;
+    case 4: dos="cuatro";break;
+    default: dos="ninguno";break;
+};
+documento.write(uno);
