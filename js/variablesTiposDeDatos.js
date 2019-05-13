@@ -29,7 +29,7 @@ const PI = 3.1416;
 
 /////////////////////TIPO DE DATOS//////////////////////////////
 //strings
-var cadena = "arbol";
+var cadena = "arbolito";
 //Numericos
 var numero = 30;
 var real = 20.6;
