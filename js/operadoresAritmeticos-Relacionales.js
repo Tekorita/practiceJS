@@ -21,6 +21,6 @@ var operacion3 = (15+15)+(15/3);
 // OPERADORES RELACIONALES
 
 var valor1 = 20;
-var valor2 = 15;
+var valor2 = 8;
 // > < >= <= == !=
 document.write(uno != dos);
