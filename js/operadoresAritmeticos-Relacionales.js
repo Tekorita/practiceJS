@@ -18,9 +18,20 @@ var operacion2 = (15+15)/3;
 var operacion3 = (15+15)+(15/3);
 //document.write(operacion3);
 
-// OPERADORES RELACIONALES
+// OPERADORES RELACIONALES (devuelven falso o verdadero)
 
 var valor1 = 20;
 var valor2 = 10;
 // > < >= <= == !=
 document.write(uno != dos);
+
+//OPERADORES LOGICOS (devuelven falso o verdadero)
+// and = &&
+// or = ||
+// not = !
+
+document.write(valor1 == valor2 && valor1 > valor2);
+document.write(valor1 == valor2 || valor1 > valor2);
+document.write(!(valor1 == valor2));
+
+
