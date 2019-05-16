@@ -1,6 +1,6 @@
 function apretar(){
     alert("hola a todos");
-    console.log("hola a todos");
+    console.log("hola a todos mi gente bella");
     document.write("Hola mundo")
 }
 
@@ -77,7 +77,7 @@ var primerito = document.querySelector(".uno");
 //primerito.addEventListener("play",
 primerito.addEventListener("ended",
     function(){
-        alert("finalizo el video");
+        alert("finalizo el video gracias");
         //alert("Le distes play");
 })
 
