@@ -78,9 +78,9 @@ a("David<br>", b);
 ////////////////////lamda///////////////////////////////////////////////////
 var vag = nombre1 => nombre1;
 
-document.write(vag("Davisito lugo<br>"));
+document.write(vag("Davisito lugooo<br>"));
 
 //con varios parametros
 var vag1 = (nombre2, apellido)=> nombre2 + apellido;
 
-document.write("tina "+" Luguito");
+document.write("tina "+" Luguito de Palma");
