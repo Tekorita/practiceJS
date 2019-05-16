@@ -24,7 +24,7 @@ var uno =
 var dos = [
     100,
     [2,4,6,
-        ["hola","tekora",9]
+        ["hola","tekoraDrojansii",9]
     ],
     [1,3,5,7,9],
     [1.5,2.5,3.5,4.5],
