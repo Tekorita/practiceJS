@@ -26,7 +26,7 @@ var a = prompt("Ingrese su nombre completo: ");
 if(a){
     document.write("hola " + a);
 }else if(a==null){
-    document.write("usted le dio a cancelar");    
+    document.write("usted eligio la opcion de cancelar");    
 }else{
-    document.write("Usted no ingreso nada")
+    document.write("Usted no ingreso una opcion")
 }
