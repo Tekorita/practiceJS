@@ -14,7 +14,7 @@ var decremento = uno--;
 //para evitar complictos se anida en parentesis para dar prioridad
 
 var operacion = 15+15/3;
-var operacion2 = (15+15)/3;
+var operacion2 = (15+25)/3;
 var operacion3 = (15+15)+(15/3);
 //document.write(operacion3);
 
