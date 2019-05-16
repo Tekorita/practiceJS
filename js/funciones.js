@@ -7,7 +7,7 @@ function uno(){
 uno();
 
 function dos(a, b, c){
-    var datos = document.write("mi nombre es: "+a + " " + b + " y tengo: " + c + " años<br>");
+    var datos = document.write("mi nombre es: "+a + " " + b + " y tengo: " + c + " años de edad<br>");
     return datos;
 }
 
