@@ -1,4 +1,4 @@
-var uno = 10;
+var uno = 20;
 var dos = 5;
 
 //Los operadores ternarios nos permiten hacer una evaluacion rapida y dar un resultado rapido
