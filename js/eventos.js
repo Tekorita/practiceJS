@@ -1,7 +1,7 @@
 function apretar(){
     alert("hola a todos");
     console.log("hola a todos mi gente bella");
-    document.write("Hola mundo")
+    document.write("Hola mundo beshoo")
 }
 
 function encima(){
