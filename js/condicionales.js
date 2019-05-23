@@ -23,11 +23,11 @@ if(uno == dos){
 }else if(uno==30 && uno==true){
     document.write("no es igual");
 }else{
-    document.write("no se cumplio nada");
+    document.write("no se cumplio nada de nada");
 };
 
 switch(uno){
-    case 0: document.write("no se cumplio nada");break;
+    case 0: document.write("no se cumplio nada de nada");break;
     case 1: dos="uno";break;
     case 2: dos="dos";break;
     case 3: dos="tres";break;
