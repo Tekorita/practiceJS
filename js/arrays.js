@@ -16,7 +16,8 @@ var uno =
         "jueves",
         "viernes",
         "sabado",
-        "domingo"          
+        "domingo",
+        "vacaciones"          
     ]
 
 //Multidimensional
@@ -28,7 +29,7 @@ var dos = [
     ],
     [1,3,5,7,9],
     [1.5,2.5,3.5,4.5],
-    "hola"
+    "hola bebe"
 ]
 
 //document.write(dos[0]);
