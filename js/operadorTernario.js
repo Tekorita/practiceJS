@@ -11,5 +11,5 @@ document.write(uno==dos ? "Es igual" : "No es igual<br>");
 if(uno==dos){
     document.write("es igual");
 }else{
-    document.write("no es igual");
+    document.write("no es igual para nada");
 }
