@@ -1,6 +1,6 @@
 function apretar(){
     alert("hola a todos");
-    console.log("hola a todos mi gente bella");
+    console.log("hola a todos");
     document.write("Hola mundo beshoo")
 }
 
