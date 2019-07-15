@@ -9,7 +9,7 @@ function encima(){
 }
 
 function fuera(){
-    alert("estas afuera del botonsito");
+    alert("estas afuera del boton");
 }
 
 var eventoUno = document.querySelector(".tres");
